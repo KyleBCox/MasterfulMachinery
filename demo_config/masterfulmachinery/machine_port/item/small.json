@@ -1,0 +1,12 @@
+{
+  "idPrefix": "small",
+  "rows": 4,
+  "columns": 3,
+  "inputMax": 100,
+  "outputMax": 100,
+  "baseTexture": "masterfulmachinery:blocks/base_block",
+  "inputOverlayTexture": "masterfulmachinery:blocks/item_input_cutout",
+  "outputOverlayTexture": "masterfulmachinery:blocks/item_output_cutout",
+  "inputDetailTexture": "masterfulmachinery:blocks/t1_cutout",
+  "outputDetailTexture": "masterfulmachinery:blocks/t1_cutout"
+}

@@ -1,0 +1,11 @@
+{
+  "idPrefix": "small",
+  "capacity": 10000,
+  "inputMax": 100,
+  "outputMax": 100,
+  "baseTexture": "masterfulmachinery:blocks/base_block",
+  "inputOverlayTexture": "masterfulmachinery:blocks/power_input_cutout",
+  "outputOverlayTexture": "masterfulmachinery:blocks/power_output_cutout",
+  "inputDetailTexture": "masterfulmachinery:blocks/t1_cutout",
+  "outputDetailTexture": "masterfulmachinery:blocks/t1_cutout"
+}

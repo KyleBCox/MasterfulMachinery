@@ -1,0 +1,11 @@
+{
+  "idPrefix": "normal",
+  "capacity": 500000,
+  "inputMax": 500,
+  "outputMax": 500,
+  "baseTexture": "masterfulmachinery:blocks/base_block",
+  "inputOverlayTexture": "masterfulmachinery:blocks/fluid_input_cutout",
+  "outputOverlayTexture": "masterfulmachinery:blocks/fluid_output_cutout",
+  "inputDetailTexture": "masterfulmachinery:blocks/t3_cutout",
+  "outputDetailTexture": "masterfulmachinery:blocks/t3_cutout"
+}

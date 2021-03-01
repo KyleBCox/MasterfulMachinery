@@ -1,0 +1,6 @@
+{
+  "idPrefix": "basic",
+  "localizedName": "Basic Controller",
+  "baseTexture": "masterfulmachinery:blocks/base_block",
+  "overlayTexture": "masterfulmachinery:blocks/controller_cutout"
+}

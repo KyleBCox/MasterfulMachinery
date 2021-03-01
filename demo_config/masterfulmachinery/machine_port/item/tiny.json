@@ -1,0 +1,13 @@
+{
+  "idPrefix": "tiny",
+  "rows": 2,
+  "columns": 2,
+  "capacity": 5000,
+  "inputMax": 50,
+  "outputMax": 50,
+  "baseTexture": "masterfulmachinery:blocks/base_block",
+  "inputOverlayTexture": "masterfulmachinery:blocks/item_input_cutout",
+  "outputOverlayTexture": "masterfulmachinery:blocks/item_output_cutout",
+  "inputDetailTexture": "masterfulmachinery:blocks/t1_cutout",
+  "outputDetailTexture": "masterfulmachinery:blocks/t1_cutout"
+}
