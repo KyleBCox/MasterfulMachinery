@@ -1,0 +1,41 @@
+{
+  "id": "big_furny",
+  "name": "Big Furny",
+  "tierId": "basic",
+  "construct": {
+    "layout": [
+      [
+        "AAA",
+        "AAA",
+        "AAA"
+      ],
+      [
+        "BBB",
+        "BAB",
+        "BBB"
+      ],
+      [
+        "BBB",
+        "BAB",
+        "BCB"
+      ],
+      [
+        "AAA",
+        "PAP",
+        "AAA"
+      ]
+    ],
+    "legend": {
+      "A": {
+        "accepted": [
+          "block:minecraft:iron_block"
+        ]
+      },
+      "B": {
+        "accepted": [
+          "block:minecraft:cobblestone"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "geothermal_generator",
+  "name": "Geothermal Gen",
+  "tierId": "basic",
+  "construct": {
+    "layout": [
+      [
+        "AAA",
+        "AAA",
+        "AAA"
+      ],
+      [
+        "APA",
+        "AAA",
+        "ACA"
+      ],
+      [
+        "AAA",
+        "AAA",
+        "AAA"
+      ]
+    ],
+    "legend": {
+      "A": {
+        "accepted": [
+          "block:minecraft:gold_block"
+        ]
+      }
+    }
+  }
+}

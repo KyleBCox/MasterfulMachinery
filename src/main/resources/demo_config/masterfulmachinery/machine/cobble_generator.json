@@ -1,0 +1,31 @@
+{
+  "id": "cobble_generator",
+  "name": "Cobble Gen",
+  "tierId": "basic",
+  "construct": {
+    "layout": [
+      [
+        "AAA",
+        "AAA",
+        "AAA"
+      ],
+      [
+        "APA",
+        "AAA",
+        "ACA"
+      ],
+      [
+        "AAA",
+        "AAA",
+        "AAA"
+      ]
+    ],
+    "legend": {
+      "A": {
+        "accepted": [
+          "block:minecraft:cobblestone"
+        ]
+      }
+    }
+  }
+}

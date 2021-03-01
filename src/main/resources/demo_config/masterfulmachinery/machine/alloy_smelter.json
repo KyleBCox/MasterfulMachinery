@@ -1,0 +1,41 @@
+{
+  "id": "lava_fabricator",
+  "name": "Lava Fabricator",
+  "tierId": "basic",
+  "construct": {
+    "layout": [
+      [
+        "AAA",
+        "AAA",
+        "AAA"
+      ],
+      [
+        "BBB",
+        "B B",
+        "BBB"
+      ],
+      [
+        "BBB",
+        "B B",
+        "BCB"
+      ],
+      [
+        "AAA",
+        "AAA",
+        "APA"
+      ]
+    ],
+    "legend": {
+      "A": {
+        "accepted": [
+          "block:minecraft:orange_wool"
+        ]
+      },
+      "B": {
+        "accepted": [
+          "block:minecraft:cobblestone"
+        ]
+      }
+    }
+  }
+}

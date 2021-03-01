@@ -1,0 +1,1 @@
+ass the "masterfulmachinery" folder into the "/<mc instance>/config" directory to apply the config
